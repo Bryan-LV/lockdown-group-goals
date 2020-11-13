@@ -10,7 +10,7 @@
 
 # production
 /build
-/src/styles/tailwind-build.css
+src/styles/tailwind-build.css
 
 # misc
 .DS_Store
